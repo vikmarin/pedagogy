@@ -1,2 +1,1 @@
 # pedagogy
-pedagogy-journal.ru
